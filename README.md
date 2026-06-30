@@ -81,19 +81,29 @@ SMS or Email notification.
 Startup Screen
 
 SMART EXAM
+
 DESK FINDER
+
 Register Number Input
+
 Enter Reg No
+
 23001
+
 Valid Register Number
+
 Hall : A101
+
 Desk : 01
 
 🟡 Yellow LED ON
 🔊 Buzzer Beep
 
+
 Invalid Register Number
+
 INVALID
+
 REGISTER NO
 
 🔴 Red LED ON
