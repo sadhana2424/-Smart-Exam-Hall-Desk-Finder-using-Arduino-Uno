@@ -8,17 +8,17 @@ Reduce the time students spend searching for their exam hall.
 Provide an easy and user-friendly examination assistance system.
 Demonstrate embedded system concepts using Arduino.
 ## 🔧 Components Required
-Component               	Quantity
-Arduino Uno                   	1
-16×2 LCD Display              	1
-4×4 Matrix Keypad	              1
-Yellow LED                    	1
-Red LED                       	1
-Active Buzzer	                  1
-Breadboard                      1
-Jumper Wires              	    As Required
-USB Cable	                      1
-220Ω Resistors (Recommended)	  2
+Component               
+Arduino Uno,                   	
+16×2 LCD Display,              	
+4×4 Matrix Keypad,
+Yellow LED,                    	
+Red LED ,                      	
+Active Buzzer,	                  
+Breadboard ,                     
+Jumper Wires,              	    
+USB Cable,	                      
+220Ω Resistors (Recommended)	  
 
 ## 💻 Software Used
 Arduino IDE
@@ -39,22 +39,23 @@ LCD displays "Invalid Register Number".
 Red LED turns ON.
 Buzzer alerts the user.
 Press * to clear the input and search again.
+
 ## ✨ Features
-Fast register number verification
-Hall and desk number display
-Yellow LED indication for valid entries
-Red LED indication for invalid entries
-Audio feedback using buzzer
-Easy to modify the register number database
-User-friendly interface
+Fast register number verification,
+Hall and desk number display,
+Yellow LED indication for valid entries,
+Red LED indication for invalid entries,
+Audio feedback using buzzer,
+Easy to modify the register number database,
+User-friendly interface,
 Low-cost implementation
 
 ## 🚀 Applications
-Colleges
-Universities
-Schools
-Examination Centers
-Student Help Desks
+Colleges,
+Universities,
+Schools,
+Examination Centers,
+Student Help Desks,
 Academic Embedded Projects
 
 ## 🌟 Advantages
@@ -65,19 +66,20 @@ Affordable hardware.
 Can be expanded to support large databases.
 
 ## 🔮 Future Enhancements
-RFID-based student identification
-QR Code Scanner integration
-ESP8266 Wi-Fi connectivity
-Web dashboard for online hall lookup
-Firebase/MySQL database integration
-Voice announcement module
-SMS or Email notification
-## HardwareSetuo
+RFID-based student identification.
+QR Code Scanner integration.
+ESP8266 Wi-Fi connectivity.
+Web dashboard for online hall lookup.
+Firebase/MySQL database integration.
+Voice announcement module.
+SMS or Email notification.
+##  Hardwarre Setup
 (<img width="697" height="902" alt="exam2" src="https://github.com/user-attachments/assets/bf0f39b1-8e8c-40d8-ba09-ddf2b61e28dd" />
 )
 
 ## 📷 Project Output
 Startup Screen
+
 SMART EXAM
 DESK FINDER
 Register Number Input
