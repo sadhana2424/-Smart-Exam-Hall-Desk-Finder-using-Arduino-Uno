@@ -66,7 +66,7 @@ Affordable hardware.
 Can be expanded to support large databases.
 
 ## 🔮 Future Enhancements
-RFID-based student identification.
+RFID-based student identification. 
 QR Code Scanner integration.
 ESP8266 Wi-Fi connectivity.
 Web dashboard for online hall lookup.
