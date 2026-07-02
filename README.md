@@ -112,8 +112,9 @@ REGISTER NO
 ## Stimulation Output
 (<img width="859" height="920" alt="exam1" src="https://github.com/user-attachments/assets/ff59ff5e-91fd-4588-b2f0-00857ef3f44b" />
 )
-## Demo Video
-(https://drive.google.com/file/d/1qBfDXfdNVWLoXM6J_heaND3SPm_-PyEF/view?usp=drivesdk)
+## 🎥 Project Demo
+
+▶️ [Watch Project Demo](https://raw.githubusercontent.com/sadhana2424/-Smart-Exam-Hall-Desk-Finder-using-Arduino-Uno/main/WhatsApp%20Video%202026-06-30%20at%207.11.41%20PM.mp4)
 
 ## 🛠️ Skills Gained
 Arduino Programming
